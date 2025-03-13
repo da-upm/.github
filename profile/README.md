@@ -6,7 +6,7 @@
   </p>
   <p>
     <a href="https://www.upm.es/"><img src="https://img.shields.io/badge/UPM-Oficial-blue" alt="UPM Oficial"></a>
-    <a href="https://github.com/DA-ETSISI"><img src="https://img.shields.io/badge/GitHub-Organización-green" alt="GitHub Organización"></a>
+    <a href="https://github.com/DA-UPM"><img src="https://img.shields.io/badge/GitHub-Organización-green" alt="GitHub Organización"></a>
   </p>
 </div>
 
