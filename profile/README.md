@@ -18,12 +18,14 @@ La Delegación de Alumnos de la Universidad Politécnica de Madrid representa a 
 - 🛠️ Desarrollar proyectos que mejoren la vida universitaria
 - 📢 Servir como canal de comunicación entre estudiantes y la universidad
 
+Si alguna vez has tenido una idea para mejorar la universidad, ¡nos encantaría escucharla!
+
 ## 🚀 Nuestros proyectos
 
 En esta organización encontrarás diversos proyectos desarrollados por estudiantes y representantes de estudiantes, todos enfocados a mejorar la experiencia universitaria en la UPM:
 
-- **Herramientas académicas**: Aplicaciones para gestión de horarios, calificaciones y recursos docentes
-- **Soluciones de gestión**: Sistemas para facilitar trámites administrativos
+- **Herramientas académicas**: Aplicaciones como EVALUA para poder tener un mecanismo de quejas y reclamaciones frente a algún docente
+- **Plataformas de colaboración**: Herramientas como PARTICIPA que permiten a los estudiantes colaborar y que sean escuchados
 - **Recursos para estudiantes**: Materiales de estudio, guías y documentación útil
 
 ## 💡 Contribuir
@@ -39,8 +41,8 @@ En esta organización encontrarás diversos proyectos desarrollados por estudian
 
 - **Web**: [da.upm.es](https://www.da.upm.es)
 - **Email**: [da.tic@upm.es](mailto:da.tic@upm.es)
-- **Twitter**: [@DelegacionUPM]
-- **Instagram**: [@delegacion_upm]
+- **Twitter/X**: [@DelegacionUPM](https://x.com/Delegacion_UPM)
+- **Instagram**: [@delegacion_upm](https://www.instagram.com/delegacionupm/)
 
 <div align="center">
   <p>Desarrollado con ❤️ por estudiantes para estudiantes</p>
