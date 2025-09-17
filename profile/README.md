@@ -2,7 +2,7 @@
   <img src="https://www.upm.es/gsfs/SFS21910" alt="Logo UPM" width="200">
   <h1>Delegación de Alumnos de la UPM</h1>
   <p>
-    <strong>Proyectos desarrollados por y para estudiantes de la Universidad Politécnica de Madrid</strong>
+    <strong>Proyectos desarrollados con ❤️ de estudiantes para estudiantes de la Universidad Politécnica de Madrid</strong>
   </p>
   <p>
     <a href="https://www.upm.es/"><img src="https://img.shields.io/badge/UPM-Oficial-blue" alt="UPM Oficial"></a>
@@ -43,7 +43,3 @@ En esta organización encontrarás diversos proyectos desarrollados por estudian
 - **Email**: [da.tic@upm.es](mailto:da.tic@upm.es)
 - **Twitter/X**: [@DelegacionUPM](https://x.com/Delegacion_UPM)
 - **Instagram**: [@delegacion_upm](https://www.instagram.com/delegacionupm/)
-
-<div align="center">
-  <p>Desarrollos con ❤️ de estudiantes para estudiantes</p>
-</div>
