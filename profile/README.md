@@ -45,5 +45,5 @@ En esta organización encontrarás diversos proyectos desarrollados por estudian
 - **Instagram**: [@delegacion_upm](https://www.instagram.com/delegacionupm/)
 
 <div align="center">
-  <p>Desarrollado con ❤️ por estudiantes para estudiantes</p>
+  <p>Desarrollos con ❤️ de estudiantes para estudiantes</p>
 </div>
